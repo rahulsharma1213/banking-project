@@ -1,2 +1,2 @@
 this project is banking project 
-we work on it
+this project assignment purpose.
